@@ -18,4 +18,7 @@ yum install readline-devel,sqlite-devel
 pyenv install 3.12.3
 
 ## 创建虚拟环境
-pyenv virtualenv 3.1.23 devlope
+pyenv virtualenv 3.1.23 multiviewer
+
+## 激活虚拟环境
+pyenv activate multiviewer
